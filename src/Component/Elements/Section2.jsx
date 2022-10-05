@@ -8,13 +8,14 @@ function Section2() {
             <span>
               An empowered, <br /> interconnected world
             </span>
-          
-            <b ata-aos="fade-up" data-aos-duration="3000">
+          <div>
+            <p >
               We serve banks, asset managers and other financial institutions;
               <br />
               enterprises; and the technology partners and <br />
               fintech developers who support them.
-            </b>
+            </p>
+            </div>
           <br />
         </div>
       </div>

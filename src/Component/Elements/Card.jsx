@@ -6,7 +6,7 @@ function Card() {
     <div className="container">
       <div className="row">
         <div className="col-md-3 col-6">
-          <div className="card">
+          <div className="card cd4">
             <div className="card-body">
               <p className="card-title">News</p>
               <p>2 September 2022</p>
@@ -21,7 +21,7 @@ function Card() {
           </div>
         </div>
         <div className="col-md-3 col-6">
-          <div className="card">
+          <div className="card cd4">
             <div className="card-body">
               <p className="card-title">News</p>
               <p>2 September 2022</p>
@@ -38,7 +38,7 @@ function Card() {
           </div>
         </div>
         <div className="col-md-3 col-6">
-          <div className="card">
+          <div className="card cd4">
             <div className="card-body">
               <p className="card-title">Events</p>
               <p>2 September 2022</p>
@@ -56,7 +56,7 @@ function Card() {
           </div>
         </div>
         <div className="col-md-3 col-6">
-          <div className="card">
+          <div className="card cd4">
             <div className="card-body">
               <p className="card-title">News</p>
               <p>2 September 2022</p>
@@ -74,12 +74,11 @@ function Card() {
                 Product Release
               </span>
             </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
-    </div>
   );
 }
-
 export default Card;

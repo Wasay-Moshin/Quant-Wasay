@@ -47,12 +47,12 @@ body {
   height: 90vh;
   span {
     color: white;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 600;
   }
-  b {
+  p {
     color: white;
-    font-size: 20px;
+    font-size: 10x;
   }
   button {
     background-color: white;
@@ -106,7 +106,8 @@ body {
   background-color:rgb(242, 132, 132) !important;
 }
 .cd{
-  margin-top: 30px;
+  margin-left:auto !important;
+  right: 0 !important;
 }
 .cd1{
   display: flex;
@@ -121,8 +122,12 @@ body {
     font-size: 15px;
   }
 }
+.cd4{
+  margin-top: 20px;
+}
 .bg3{
   background-image: url("Media/Sibos.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
+
